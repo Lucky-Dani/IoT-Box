@@ -23,13 +23,13 @@ Fitur Utama :
    - HTML, CSS, JavaScript (Frontend Dashboard)
 
 📂 Struktur Project
-📦 IoT-Box
- ┣ 📜 ESP32-WROOM.ino            # Kode untuk ESP32
- ┣ 📜 connection.py              # MQTT client → push ke Firebase
- ┣ 📜 index.php                  # Dashboard web
- ┣ 📜 style.css                  # Styling dashboard
- ┣ 📜 logo.png                   # logo
- ┗ 📜 README.md                  # Dokumentasi
+    IoT-Box
+ - 📜 ESP32-WROOM.ino            # Kode untuk ESP32
+ - 📜 connection.py              # MQTT client → push ke Firebase
+ - 📜 index.php                  # Dashboard web
+ - 📜 style.css                  # Styling dashboard
+ - 📜 logo.png                   # logo
+ - 📜 README.md                  # Dokumentasi
 
 Cara Menjalankan :
 1️⃣ Setup ESP32
